@@ -1,4 +1,4 @@
-# Bài tập lớn Kĩ thật lập trình
+# Bài tập lớn Kĩ thuật lập trình
 
 ## Run
 
